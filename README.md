@@ -1,5 +1,4 @@
-The Clinic Management System
-is a C-based program designed to efficiently manage patient data and clinic operations. It allows clinic staff to handle essential functions such as adding new patient records, making reservations, searching for patient information, and editing existing records. This project showcases how a simple yet powerful system can be created using the C programming language to streamline clinic workflows.
+The Clinic Management System is a C-based program designed to efficiently manage patient data and clinic operations. It allows clinic staff to handle essential functions such as adding new patient records, making reservations, searching for patient information, and editing existing records. This project showcases how a simple yet powerful system can be created using the C programming language to streamline clinic workflows.
 
 Features Patient Record Management:
 
@@ -26,3 +25,4 @@ Compile the source code using your preferred C compiler: gcc clinic_management_s
 Run the compiled executable: ./clinic_management_system
 
 Follow the on-screen instructions to manage patient records and reservations.
+
